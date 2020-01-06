@@ -1,7 +1,7 @@
 # all-stack
 all stack
 
-# list
+# code list
 ## php
 ## python
 ## node
